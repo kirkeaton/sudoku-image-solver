@@ -42,6 +42,6 @@ type `python imsudoku.py`
 
 ### Results
 
-![Sudoku extraction](http://i.imgur.com/GK1rx5s.png)
-
 The average accuracy of extracting the initial digits was 86%.
+
+![Sudoku extraction](http://i.imgur.com/GK1rx5s.png)
