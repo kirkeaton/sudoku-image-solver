@@ -27,12 +27,11 @@ to solve it. The process works as follows:
 ### Required libraries
 
 1. OpenCV
-2. OpenCV
-3. Numpy
-4. PyLab
-5. LibSVM
-6. Python Imaging Library (PIL)
-7. Scipy
+2. Numpy
+3. PyLab
+4. LibSVM
+5. Python Imaging Library (PIL)
+6. Scipy
 
 ### Execution
 
