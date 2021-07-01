@@ -1,3 +1,7 @@
+# **UNMAINTAINED**
+
+This program was written for a school assignment and I have no plans to maintain it going forward.
+
 Sudoku Image Solver
 ===================
 
